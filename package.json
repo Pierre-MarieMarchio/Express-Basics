@@ -1,0 +1,14 @@
+{
+  "name": "myexpress-server",
+  "version": "1.0.0",
+  "description": "first server ever",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre-Marie Marchio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
